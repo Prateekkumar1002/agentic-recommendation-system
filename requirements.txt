@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+xgboost
+lightgbm
+torch
+fastapi
+uvicorn
+mlflow
+evidently
+langchain
+langgraph
+crewai
+joblib
