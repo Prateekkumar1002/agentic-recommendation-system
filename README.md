@@ -12,10 +12,17 @@ It observes itself, evaluates itself, and improves itself automatically using ag
 This mirrors how next-generation platforms are evolving — from static models to self-improving AI systems.
 
 Key Capabilities
+
 Large-scale hybrid recommendation system
+
 Semantic content understanding using embeddings & LLMs
+
 Context-aware ranking pipeline
+
 Real-time feedback loop (CTR, dwell time)
+
 Autonomous agents that retrain and optimize models
+
 Reinforcement learning via contextual bandits
+
 Fully deployable microservice architecture
