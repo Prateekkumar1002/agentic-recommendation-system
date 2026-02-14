@@ -14,3 +14,4 @@ langchain
 langgraph
 crewai
 joblib
+openai
