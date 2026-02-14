@@ -1,3 +1,4 @@
+#ranker.py
 import xgboost as xgb
 
 class Ranker:
@@ -13,3 +14,4 @@ class Ranker:
 
     def predict(self, X):
         return self.model.predict(X)
+
