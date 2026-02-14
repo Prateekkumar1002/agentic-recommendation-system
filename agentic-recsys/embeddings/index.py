@@ -8,6 +8,7 @@ class VectorIndex:
     def build(self, vectors):
         self.index.add(vectors)
 
-    def search(self, query, k=10):
+    def search(self, query, k=10): # Top K=10
         return self.index.search(query, k)
+
 
