@@ -1,3 +1,4 @@
+# Using Sentence Transformer
 from sentence_transformers import SentenceTransformer
 
 class Embedder:
@@ -6,3 +7,4 @@ class Embedder:
 
     def encode(self, texts):
         return self.model.encode(texts, show_progress_bar=True)
+
