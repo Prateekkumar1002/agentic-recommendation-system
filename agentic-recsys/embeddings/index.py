@@ -1,3 +1,4 @@
+#index.py
 import faiss
 import numpy as np
 
@@ -10,5 +11,6 @@ class VectorIndex:
 
     def search(self, query, k=10): # Top K=10
         return self.index.search(query, k)
+
 
 
